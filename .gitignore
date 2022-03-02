@@ -1,0 +1,8 @@
+# created by virtualenv automatically
+xray_windows.exe
+Include/
+Lib/
+Scripts/
+*.cfg
+*.pyz
+flask-zip/
